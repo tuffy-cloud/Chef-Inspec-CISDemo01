@@ -1,0 +1,8 @@
+name: inspec-workshop
+title: CIS CentOS 6 InSpec Workshop
+maintainer: Kevin Tuffner 
+copyright: Kevin Tuffner
+copyright_email: tuffner@outlook.com
+license: All Rights Reserved
+summary: An exercise in building a CentOS profile by writing the controls with InSpec
+version: 0.1.0
