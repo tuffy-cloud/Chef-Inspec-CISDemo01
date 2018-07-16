@@ -1,8 +1,8 @@
-name: inspec-workshop
-title: CIS CentOS 6 InSpec Workshop
+name: Chef-Inspec-CISDemo01
+title: Chef-Inspec-CISDemo01 InSpec Workshop
 maintainer: Kevin Tuffner 
 copyright: Kevin Tuffner
-copyright_email: tuffner@outlook.com
+copyright_email: ktuffner@gmail.com
 license: All Rights Reserved
-summary: An exercise in building a CentOS profile by writing the controls with InSpec
+summary: Chef-Inspec-CISDemo01
 version: 0.1.0
